@@ -1,0 +1,6 @@
+task_id,task_name,stage_name,planned_start,planned_finish,actual_start,progress,status,priority,effort_hours,assignee,workload,dependencies_count,requirement_changes,blockers
+T1,Анализ требований,Анализ,2026-03-01,2026-03-10,2026-03-01,100,completed,high,40,Иванов,80,0,0,0
+T2,Проектирование БД,Проектирование,2026-03-11,2026-03-20,2026-03-11,60,in_progress,high,60,Петров,90,3,2,1
+T3,Разработка API,Разработка,2026-03-15,2026-03-30,2026-03-15,30,in_progress,critical,120,Сидоров,100,5,4,1
+T4,Тестирование модуля,Тестирование,2026-03-25,2026-04-05,,0,not_started,medium,50,Козлов,60,2,0,0
+T5,Подготовка релиза,Релиз,2026-04-01,2026-04-10,,0,not_started,low,20,Новиков,40,1,0,0

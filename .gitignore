@@ -1,0 +1,15 @@
+# Виртуальное окружение
+venv/
+env/
+.venv/
+
+# Файлы кэша Python
+__pycache__/
+*.pyc
+
+# Файлы IDE
+.vscode/
+.idea/
+
+# Файлы Streamlit
+.streamlit/secrets.toml
